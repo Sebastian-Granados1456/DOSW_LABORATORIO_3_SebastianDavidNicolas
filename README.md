@@ -3,7 +3,7 @@
 Integrantes:
 - Juan David Munar
 - Sebastian Granados
-- Nicolas
+- Nicolas Alvarez
 
 Objetivo:
 - Aplicar herramientas de definición y análisis de requerimientos a partir de un caso de estudio práctico, y herramientas de planeación usando el framework Agile Scrum con Jira. El sistema que definan aquí será la base del proyecto de API que construirán durante el segundo corte.
@@ -18,3 +18,9 @@ Objetivo:
 
 4.  GitHub. (s.f.). Acerca de las solicitudes de incorporación de cambios. GitHub Docs. Recuperado el 20 de agosto de
     2026, de https://docs.github.com/es/pull-requests/get-started/about-pull-requests
+
+---
+Concepto: Restaurante de coctelería.
+Reglas de negocio:
+1. Todo cóctel con base alcohólica debe registrar obligatoriamente la marca o tipo de destilado; sin este dato no pasa a la comanda de la barra, el cliente puede cambiar su licor 1 vez antes de preparar el coctel.
+2. Si un cóctel se configura como Mocktail (sin alcohol), el sistema bloquea y desactiva cualquier modificador con graduación alcohólica.
