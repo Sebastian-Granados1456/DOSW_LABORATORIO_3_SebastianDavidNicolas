@@ -1,6 +1,6 @@
 ## PARTE 5 - Desglose del Trabajo del Restaurante   
 
-**Épica:** Blue Velvet (BV) — Digitalización Integral de Coctelería de Autor  
+**Épica:** Blue Velvet (BV)
 **Descripción:** Agrupa todo el ciclo de vida del restaurante (carta, pedidos, barra y pagos). No cabe en un solo sprint.
 
 ---
