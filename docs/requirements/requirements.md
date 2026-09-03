@@ -18,6 +18,19 @@ administrador.
 2. El sistema consulta el inventario de insumos en tiempo real.
 3. El sistema muestra cada cóctel junto con su estado de disponibilidad.
 
+### Mockups
+
+Para garantizar la cobertura visual y funcional de este requerimiento, se diseñó el flujo de pantallas y la guía de accesibilidad bajo el concepto **Blue Velvet**:
+
+* **Pantallas Detalladas del Requerimiento:**
+  1. **Bienvenida e Identificación de Mesa:** [Paso1.png](../images/Paso1.png)
+  2. **Catálogo de Cócteles con Disponibilidad:** [Paso2.png](../images/Paso2.png.png)
+  3. **Detalle de Cóctel y Selección de Licor Base:** [Paso3.png](../images/Paso3.png)
+  4. **Modo Mocktail 0.0% con Bloqueo de Licores:** [Paso4.png](../images/Paso4.png)
+  5. **Detección Visual de Insumo Agotado en Barra:** [Paso5.png](../images/Paso5.png)
+  6. **Reemplazo Inteligente de Cóctel:** [Paso6.png](../images/Paso6.png)
+LINK MOCKUP FIGMA: https://www.figma.com/make/Vcgs1wQfyADXk2LKRqlgXK/Blue-Velvet-cocktail-bar-app?fullscreen=1&t=bfSx15gNiiOVeyb5-1&code-node-id=0-6
+
 ###  RF04 — Actualizar estado del pedido (barra)
 
 ![uc-rf04-actualizar-estado.png](../uml/uc-rf04-actualizar-estado.png)
