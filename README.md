@@ -8,6 +8,7 @@ Integrantes:
 Objetivo:
 - Aplicar herramientas de definición y análisis de requerimientos a partir de un caso de estudio práctico, y herramientas de planeación usando el framework Agile Scrum con Jira. El sistema que definan aquí será la base del proyecto de API que construirán durante el segundo corte.
 
+=======
 # Preguntas README
 
 1. El pull request en GitHub es una solicitud para fusionar cambios de una rama hacia otra, típicamente desde una rama de feature hacia una rama principal como develop o main.
