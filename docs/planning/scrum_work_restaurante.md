@@ -1,4 +1,4 @@
-## PARTE 5 - Desglose del Trabajo del Restaurante
+## PARTE 5 - Desglose del Trabajo del Restaurante    
 
 **Épica:** Blue Velvet (BV)
 **Descripción:** Agrupa todo el ciclo de vida del restaurante (carta, pedidos, barra y pagos). No cabe en un solo sprint.
@@ -42,7 +42,7 @@
 - **Entrega de valor:** Entrega valor por sí sola y cabe en un sprint.
 - **Prioridad:** Alta: Modela la regla diferencial del establecimiento y previene mermas de insumos premium.
 - **Estimación:** 5 Puntos de Historia.
-- **Video de Planning Poker:** 
+- **Video de Planning Poker:** [Enlace de tu video de Planning Poker]
 
 **Criterios de Aceptación:**
 
