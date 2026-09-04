@@ -1,4 +1,4 @@
-## PARTE 5 - Desglose del Trabajo del Restaurante   
+## PARTE 5 - Desglose del Trabajo del Restaurante    
 
 **Épica:** Blue Velvet (BV)
 **Descripción:** Agrupa todo el ciclo de vida del restaurante (carta, pedidos, barra y pagos). No cabe en un solo sprint.
@@ -17,6 +17,7 @@
 
 - **Entrega de valor:** Entrega valor por sí sola y cabe en un sprint.
 - **Prioridad:** Alta: Es la puerta de entrada al servicio y evita que comensales consuman alcohol involuntariamente.
+- **Estimación:** 5 Puntos de Historia.
 
 **Criterios de Aceptación:**
 
@@ -40,6 +41,8 @@
 
 - **Entrega de valor:** Entrega valor por sí sola y cabe en un sprint.
 - **Prioridad:** Alta: Modela la regla diferencial del establecimiento y previene mermas de insumos premium.
+- **Estimación:** 5 Puntos de Historia.
+- **Video de Planning Poker:** [Enlace de tu video de Planning Poker]
 
 **Criterios de Aceptación:**
 
@@ -57,8 +60,7 @@
 
 ---
 
-
-**Épica:** Blue Velvet (BV)   
+**Épica:** Blue Velvet (BV)    
 **Descripción:** Agrupa todo el ciclo de vida del restaurante (carta, pedidos, barra y pagos). No cabe en un solo sprint.
 
 ---
@@ -75,6 +77,7 @@
 
 - **Entrega de valor:** Entrega valor operacional directo y cabe en un sprint.
 - **Prioridad:** Alta: Es el disparador que conecta la sala con la estación de preparación.
+- **Estimación:** 5 Puntos de Historia.
 
 **Criterios de Aceptación:**
 
@@ -98,6 +101,7 @@
 
 - **Entrega de valor:** Entrega valor al flujo operativo interno y cabe en un sprint.
 - **Prioridad:** Media: Fundamental para el control de cocina, aunque depende de que la orden ya haya sido recibida.
+- **Estimación:** 3 Puntos de Historia.
 
 **Criterios de Aceptación:**
 

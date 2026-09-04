@@ -17,10 +17,10 @@ Objetivo:
 
 3. Desde la pagina de GitHub en la opción de Compare & Pull Request, esto hace que acepte esos commits al repositorio principal.
 
-4.  GitHub. (s.f.). Acerca de las solicitudes de incorporación de cambios. GitHub Docs. Recuperado el 20 de agosto de
-    2026, de https://docs.github.com/es/pull-requests/get-started/about-pull-requests
+4. GitHub. (s.f.). Acerca de las solicitudes de incorporación de cambios. GitHub Docs. Recuperado el 20 de agosto de 2026, de https://docs.github.com/es/pull-requests/get-started/about-pull-requests
 
 ---
+
 ## GUIA DE MARCA (PARTE 4)
 
 Concepto: Restaurante de coctelería.
@@ -56,3 +56,13 @@ Para asegurar la accesibilidad a usuarios con daltonismo, se aplica la regla de 
 
 ### 4. Logo, favicon, mocks
 - Se encuentran en docs/images
+
+---
+
+## Reflexión Planning Poker (Parte 7)
+
+**¿Cuál fue la mayor dificultad a la hora de estimar? ¿Fue fácil llegar a un consenso?**
+La mayor dificultad fue desligar el concepto de tiempo en horas del de complejidad y esfuerzo (Puntos de Historia). Al principio costó un poco alinear al equipo sobre la complejidad de la lógica de negocio y las reglas de validación en tiempo real como el manejo de stock y la restricción de alcohol en mocktails.
+
+**¿Cómo resolvieron las discrepancias grandes?**
+Las discrepancias grandes se resolvieron analizando a profundidad los Criterios de Aceptación y el impacto en la arquitectura de backend. Por ejemplo, en historias que involucraban reglas de mutación única de licores o control de estados, se discutió el peso técnico de implementar guardas de dominio, lo que llevó a consensuar estimaciones más altas orientadas a la mitigación de riesgos técnicos.
