@@ -24,3 +24,13 @@ Concepto: Restaurante de coctelería.
 Reglas de negocio:
 1. Todo cóctel con base alcohólica debe registrar obligatoriamente la marca o tipo de destilado; sin este dato no pasa a la comanda de la barra, el cliente puede cambiar su licor 1 vez antes de preparar el coctel.
 2. Si un cóctel se configura como Mocktail (sin alcohol), el sistema bloquea y desactiva cualquier modificador con graduación alcohólica.
+
+---
+
+## Reflexión Planning Poker (Parte 7)
+
+**¿Cuál fue la mayor dificultad a la hora de estimar? ¿Fue fácil llegar a un consenso?**
+La mayor dificultad fue desligar el concepto de tiempo en horas del de complejidad y esfuerzo (Puntos de Historia). Al principio costó un poco alinear al equipo sobre la complejidad de la lógica de negocio y las reglas de validación en tiempo real como el manejo de stock y la restricción de alcohol en mocktails.
+
+**¿Cómo resolvieron las discrepancias grandes?**
+Las discrepancias grandes se resolvieron analizando a profundidad los Criterios de Aceptación y el impacto en la arquitectura de backend. Por ejemplo, en historias que involucraban reglas de mutación única de licores o control de estados, se discutió el peso técnico de implementar guardas de dominio, lo que llevó a consensuar estimaciones más altas orientadas a la mitigación de riesgos técnicos.
