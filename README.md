@@ -21,6 +21,10 @@ Objetivo:
 
 ---
 
+## Diagrama de Contexto 
+
+<img width="719" height="504" alt="Contexto drawio" src="https://github.com/user-attachments/assets/3b7e9345-a07c-4c3e-a1ec-9b5d7519b854" />
+
 ## GUIA DE MARCA (PARTE 4)
 
 Concepto: Restaurante de coctelería.
