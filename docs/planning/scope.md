@@ -8,6 +8,7 @@
 
 ## Diagrama de contexto
 
+<img width="719" height="504" alt="Contexto drawio" src="https://github.com/user-attachments/assets/38d7546d-b662-4910-9b3a-bc8725891b5f" />
 
 ## Alcance del sistema
 
